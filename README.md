@@ -12,6 +12,10 @@ Add cmder here in explorer/context menu.
 
 ## Release Notes
 
+### 0.0.2
+
+- Add configuration Contribution Point
+
 ### 0.0.1
 
 - Initial release
