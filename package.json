@@ -2,7 +2,7 @@
   "name": "cmder-here",
   "displayName": "cmder-here",
   "description": "Add cmder here in ctx menu.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "zyq",
   "engines": {
     "vscode": "^1.33.0"
